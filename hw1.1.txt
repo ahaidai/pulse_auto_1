@@ -1,5 +1,5 @@
 hello worldhello worldhello worldhello worldhello world
 hello worldhello worldhello worldhello worldhello world
-hello worldhello changed master worldhello world
+hello worldhello mastert+branch merged worldhello world
 hello worldhello worldhello worldhello worldhello world
 hello worldhello worldhello worldhello worldhello world
